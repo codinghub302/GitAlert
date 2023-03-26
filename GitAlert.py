@@ -27,10 +27,10 @@ log = getLogger()
 ENV = bool(environ.get('ENV', False))
 
 if ENV:
-    BOT_TOKEN = environ.get('BOT_TOKEN', None)
+    BOT_TOKEN = environ.get('BOT_TOKEN', "6187702026:AAGWmM0735hPoUu2cvMjhRGAcBuJq1tx8n4")
     PROJECT_NAME = environ.get('PROJECT_NAME', None)
     ip_addr = environ.get('APP_URL', None)
-    HEROKU_APPNAME = environ.get("HEROKU_APPNAME", "gitalertbot")
+    HEROKU_APPNAME = environ.get("HEROKU_APPNAME", "GitAlert")
     GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/codinghub302/GitAlert")
 else:
     BOT_TOKEN = config.BOT_TOKEN
@@ -53,7 +53,7 @@ UPDATES = xxc
 
 def help(update: Update, context: CallbackContext):
     message = update.effective_message
-    textto = "To get alerts about your repository follow the steps below \n\n1.Add @AllbotHub in your group where you want bot to send alerts. \n\n2.Send /id command. \n\n3.Send /connect <Your group id> (must start with -100) \n\n4. Add this bot in that group where you want to receive alerts."
+    textto = "To get alert about your repository follow the steps below \n\n1.Add @AllbotHub in your group where you want bot to send alerts. \n\n2.Send /id command. \n\n3.Send /connect <Your group id> (must start with -100) \n\n4. Add this bot in that group where you want to receive alert."
     pic = "https://te.legra.ph/file/57797bf35c4c0997b1aef.jpg"
     buttons1 = [
             [
