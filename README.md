@@ -30,7 +30,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɢɪᴛᴀʟᴇʀ�
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
 </h3></summary>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub302/SangamMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub302/GitAlert"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -38,3 +38,27 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ɢɪᴛᴀʟᴇʀ�
 
 <img
 src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+━━━━━━━━━━━━━━━━━━━━
+src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/AllBotHub"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/SangamOwner"><img src="https://img.shields.io/badge/Sangam%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
+ <p align="center">
+<a href="https://github.com/codinghub302"> <img src="https://img.shields.io/badge/Sangam-black?style=for-the-badge&logo=github" alt="Git Alert" /> </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
