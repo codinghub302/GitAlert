@@ -8,4 +8,4 @@ PROJECT_NAME = "GitAlert"
 GIT_REPO_URL = "https://github.com/codinghub302/GitAlert"
 
 # For /connect
-HEROKU_APPNAME = "gitalertbot"
+HEROKU_APPNAME = "gitalert"
