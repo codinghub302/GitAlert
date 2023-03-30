@@ -30,7 +30,7 @@ if ENV:
     BOT_TOKEN = environ.get('BOT_TOKEN', "6187702026:AAGWmM0735hPoUu2cvMjhRGAcBuJq1tx8n4")
     PROJECT_NAME = environ.get('PROJECT_NAME', None)
     ip_addr = environ.get('APP_URL', None)
-    HEROKU_APPNAME = environ.get("HEROKU_APPNAME", "GitAlert")
+    HEROKU_APPNAME = environ.get("HEROKU_APPNAME", "gitalert")
     GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/codinghub302/GitAlert")
 else:
     BOT_TOKEN = config.BOT_TOKEN
@@ -320,7 +320,7 @@ def git_api(groupid):
        sys.exit(1)
 
     if SOURCE != fck:
-       print("So sad, you have changed source, change it back to TeamScenario/GitAlerts else I won't work")
+       print("So sad, you have changed source, change it back to TeamScenario/GitAlert else I won't work")
        sys.exit(1)
 
     if UPDATES != dkb:
